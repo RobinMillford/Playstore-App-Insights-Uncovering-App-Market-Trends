@@ -1,5 +1,7 @@
 # Playstore App Insights: Uncovering App Market Trends
 
+Dataset - https://www.kaggle.com/datasets/rakeshpanigrahy/playstore-dataset
+
 ### Data Preparation and Cleaning
 I initiated this project by loading a CSV dataset into a pandas dataframe. I meticulously cleaned the data, addressing missing values, duplicates, and inconsistencies to ensure data accuracy.
 
